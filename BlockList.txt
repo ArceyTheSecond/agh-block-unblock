@@ -6,4 +6,4 @@
 ||graph.facebook.com^$client='Joas Phone'
 
 #STER 
-||cdn-ster-nl.akamaized.net^$important
+||cdn-ster-nl.akamaized.net
