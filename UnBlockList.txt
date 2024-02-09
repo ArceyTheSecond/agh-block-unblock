@@ -1,0 +1,2 @@
+#Pi Mining (unblock)
+@@||node.minepi.com^$important
