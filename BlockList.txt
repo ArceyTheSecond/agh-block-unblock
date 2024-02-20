@@ -6,4 +6,7 @@
 ||graph.facebook.com^$client='Joas Phone'
 
 #STER 
-||cdn-ster-nl.akamaized.net
+||cdn-ster-nl.akamaized.net^
+
+#Tweakers
+||ab.tweakers.nl^
