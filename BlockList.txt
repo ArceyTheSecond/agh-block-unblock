@@ -2,8 +2,8 @@
 ||ezojs.com^
 ||ezoic.net^
 
-#FaceBook (block, Joas)
-||graph.facebook.com^$client='Joas Phone'
+#FaceBook
+||graph.facebook.com^
 
 #STER 
 ||cdn-ster-nl.akamaized.net
