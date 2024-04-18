@@ -1,3 +1,2 @@
-#Pi Mining (unblock)
-@@||node.minepi.com^$important
+@@||minepi.com^$important
 @@||graph.facebook.com^$client='Michelle Phone'
