@@ -6,6 +6,7 @@
 ||graph.facebook.com^
 
 #STER 
+||adconfig.ster.nl^
 ||cdn-ster-nl.akamaized.net^
 
 #Tweakers
