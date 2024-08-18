@@ -11,3 +11,8 @@
 
 #Tweakers
 ||ab.tweakers.nl^
+
+#AI easypic
+||aieasypic.com^
+||aieasyshot.com^
+
