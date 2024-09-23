@@ -1,18 +1,21 @@
-#Ezoic
+# Ezoic
 ||ezojs.com^
 ||ezoic.net^
 
-#FaceBook
+# FaceBook
 ||graph.facebook.com^
 
-#STER 
+# STER 
 ||adconfig.ster.nl^
 ||cdn-ster-nl.akamaized.net^
 
-#Tweakers
+# Tweakers
 ||ab.tweakers.nl^
 
-#AI easypic
+# AI easypic
 ||aieasypic.com^
 ||aieasyshot.com^
 
+# KPN
+||eyeson-kpn.sahrd.io^
+||meppel1.cust.kpn.net^
